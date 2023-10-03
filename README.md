@@ -14,7 +14,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=lightgrey&style=flat-square&color=lightgrey" alt=""/>
 <h1>
-  Tailer Durden? god damn...
+  Tailer Durden?
   <img src="https://media.giphy.com/media/i4ZtrAwEORqbw2CQYL/giphy.gif" width="50px"/>
 </h1>
 
