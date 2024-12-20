@@ -19,7 +19,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/BZqxuFnVopV9m/giphy.gif" width="500" height="200"/>
+  <img src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif" width="500" height="200"/>
 </div>
 
 ### :skull_and_crossbones: About Me :
