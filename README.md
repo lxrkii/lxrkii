@@ -1,36 +1,21 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/9DyIEwoOhAfZjIpSvS/giphy.gif" width="480" height="270"/>
-</div>
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=lightgrey&style=flat-square&color=lightgrey" alt=""/>
+<div align='center'>
 <h1>
-  Kondrakov Georgiy
-  <img src="https://i.pinimg.com/736x/71/6f/71/716f71455640a438dcff23d719b7f499.jpg" width="50px"/>
+  Kondrakov Georgiy 
 </h1>
-
+</div>
 <div align="center">
   <img src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif" width="500" height="200"/>
 </div>
 
 ### :skull_and_crossbones: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada :canada:
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
 - :skull: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I'm playing Coun....
+- :zap: Свободного времени нет у меня.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: all my social's below)
 
 ---
 
@@ -58,3 +43,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lxrkii&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxrkii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align='center'  letter-spacing = '0.7px'>
+<div id="badges">
+  <a href="https://vk.com/lxrkii">
+    <img src="https://i.ibb.co/2ZgGPSH/vk.png" width='35' alt="Vk_Badge"/>
+  </a>
+  <a href="https://x.com/lxrkii">
+    <img src="https://i.ibb.co/9NF7JXj/twitter.png" width='35' alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=lightgrey&style=flat-square&color=lightgrey" alt=""/>
+</div>
