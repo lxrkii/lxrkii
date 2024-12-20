@@ -15,7 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=lightgrey&style=flat-square&color=lightgrey" alt=""/>
 <h1>
   Kondrakov Georgiy
-  <img src="https://i.pinimg.com/originals/3c/dd/d6/3cddd65b741761997e9e3caf61be7404.gif" width="50px"/>
+  <img src="https://i.pinimg.com/736x/71/6f/71/716f71455640a438dcff23d719b7f499.jpg" width="50px"/>
 </h1>
 
 <div align="center">
